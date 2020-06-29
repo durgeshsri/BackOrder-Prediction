@@ -1,6 +1,7 @@
 # BackOrder-Prediction
 Citation : 
 TY  - BOOK, AU  - Santis, Rodrigo ,AU  - P. de Aguiar, Eduardo,AU  - Goliatt, Leonardo
+
 PY  - 2017/11/08 
 T1  - Predicting Material Backorders in Inventory Management using Machine Learning
 DO  - 10.1109/LA-CCI.2017.8285684 
